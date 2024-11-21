@@ -12,7 +12,7 @@ from telebot.apihelper import ApiTelegramException
 
 # Convert ADMIN_IDS to a list of integers
 ADMIN_IDS = [6488705449]  # Changed from string to list of integers
-BOT_TOKEN = "7411063197:AAGpZ7WRh257tS5q_vRfMuBYsPu5V0O5M6Q"
+BOT_TOKEN = "7363065437:AAFmIXlNO-2-sEyLAvpSiAe5VhgoVVknuEU"
 
 bot = telebot.TeleBot(BOT_TOKEN)
 redeemed_keys = set()
